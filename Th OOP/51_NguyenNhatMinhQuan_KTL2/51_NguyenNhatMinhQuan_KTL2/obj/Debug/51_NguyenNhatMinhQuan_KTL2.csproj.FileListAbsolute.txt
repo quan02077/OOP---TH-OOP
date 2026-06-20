@@ -1,0 +1,8 @@
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\bin\Debug\51_NguyenNhatMinhQuan_KTL2.exe.config
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\bin\Debug\51_NguyenNhatMinhQuan_KTL2.exe
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\bin\Debug\51_NguyenNhatMinhQuan_KTL2.pdb
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\obj\Debug\51_NguyenNhatMinhQuan_KTL2.csproj.AssemblyReference.cache
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\obj\Debug\51_NguyenNhatMinhQuan_KTL2.csproj.CoreCompileInputs.cache
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\obj\Debug\51_NguyenNhatMinhQuan_KTL2.exe
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\obj\Debug\51_NguyenNhatMinhQuan_KTL2.pdb
+F:\51_NguyenNhatMinhQuan_KTL2\51_NguyenNhatMinhQuan_KTL2\obj\Debug\51_NguyenNhatMinhQuan_KTL2.exe.config

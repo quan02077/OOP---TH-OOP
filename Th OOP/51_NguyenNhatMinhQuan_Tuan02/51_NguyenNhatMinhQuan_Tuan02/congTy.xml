@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<nhanvien>
+		<maso>123</maso>
+		<ten>Nhien</ten>
+		<hsl>2.36</hsl>
+		<nvl>2019</nvl>
+	</nhanvien>
+	<nhanvien>
+		<maso>456</maso>
+		<ten>Quan</ten>
+		<hsl>2.18</hsl>
+		<nvl>2020</nvl>
+	</nhanvien>
+	<nhanvien>
+		<maso>789</maso>
+		<ten>Minh Quan</ten>
+		<hsl>3.55</hsl>
+		<nvl>2010</nvl>
+	</nhanvien>
+</congty>

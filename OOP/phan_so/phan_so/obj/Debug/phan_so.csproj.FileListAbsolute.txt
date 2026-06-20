@@ -1,0 +1,8 @@
+E:\C#\phan_so\phan_so\bin\Debug\phan_so.exe.config
+E:\C#\phan_so\phan_so\bin\Debug\phan_so.exe
+E:\C#\phan_so\phan_so\bin\Debug\phan_so.pdb
+E:\C#\phan_so\phan_so\obj\Debug\phan_so.csproj.AssemblyReference.cache
+E:\C#\phan_so\phan_so\obj\Debug\phan_so.csproj.CoreCompileInputs.cache
+E:\C#\phan_so\phan_so\obj\Debug\phan_so.exe
+E:\C#\phan_so\phan_so\obj\Debug\phan_so.pdb
+E:\C#\phan_so\phan_so\obj\Debug\phan_so.exe.config

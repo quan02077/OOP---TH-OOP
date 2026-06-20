@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<nhanvien>
+		<manv>001</manv>
+		<tennv>Rau ma</tennv>
+		<phongban>Ke toan</phongban>
+		<chucvu>Nhan vien</chucvu>
+		<hesoluong>5.00</hesoluong>
+		<thamniencongtac>2</thamniencongtac>
+		<songaylam>2</songaylam>
+	</nhanvien>
+	<nhanvien>
+		<manv>002</manv>
+		<tennv>Van Quan</tennv>
+		<phongban>Thu ky</phongban>
+		<chucvu>Nhan vien</chucvu>
+		<hesoluong>3.55</hesoluong>
+		<thamniencongtac>3</thamniencongtac>
+		<songaylam>21</songaylam>
+	</nhanvien>
+	<nhanvien>
+		<manv>003</manv>
+		<tennv>Minh Quan</tennv>
+		<phongban>Ke toan</phongban>
+		<chucvu>Lanh dao</chucvu>
+		<hesoluong>5.50</hesoluong>
+		<thamniencongtac>10</thamniencongtac>
+		<songaylam>29</songaylam>
+	</nhanvien>
+	<nhanvien>
+		<manv>004</manv>
+		<tennv>Hao Nhien</tennv>
+		<phongban>Nhan su</phongban>
+		<chucvu>Nhan vien</chucvu>
+		<hesoluong>3.35</hesoluong>
+		<thamniencongtac>3</thamniencongtac>
+		<songaylam>1</songaylam>
+	</nhanvien>
+	<nhanvien>
+		<manv>005</manv>
+		<tennv>Thanh Hoa</tennv>
+		<phongban>Ke toan</phongban>
+		<chucvu>Nhan vien</chucvu>
+		<hesoluong>3.75</hesoluong>
+		<thamniencongtac>4</thamniencongtac>
+		<songaylam>36</songaylam>
+	</nhanvien>
+</congty>

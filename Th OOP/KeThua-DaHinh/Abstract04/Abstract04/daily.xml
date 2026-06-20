@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<daily>
+	<dshoadon>
+		<hd loai ="1">
+			<mahang>abc</mahang>
+			<tenhang>Banh gao</tenhang>
+			<dongia>15000</dongia>
+			<maso>0001</maso>
+			<hoten>Nguyen Nhat Minh Quan</hoten>
+			<ngaylap>08/09/2025</ngaylap>
+			<mathang>Do an</mathang>
+			<soluong>10</soluong>
+		</hd>
+		<hd loai ="2">
+			<mahang>def</mahang>
+			<tenhang>Mi hao hao</tenhang>
+			<dongia>10000</dongia>
+			<maso>0002</maso>
+			<hoten>Cao Thien An</hoten>
+			<ngaylap>27/09/2025</ngaylap>
+			<mathang>Do an</mathang>
+			<soluong>3</soluong>
+		</hd>
+		<hd loai ="3">
+			<mahang>asd</mahang>
+			<tenhang>Laptop</tenhang>
+			<dongia>17000000</dongia>
+			<maso>0003</maso>
+			<hoten>Luong Van Quan</hoten>
+			<ngaylap>13/10/2025</ngaylap>
+			<mathang>Dien tu</mathang>
+			<soluong>1</soluong>
+		</hd>
+	</dshoadon>
+</daily>

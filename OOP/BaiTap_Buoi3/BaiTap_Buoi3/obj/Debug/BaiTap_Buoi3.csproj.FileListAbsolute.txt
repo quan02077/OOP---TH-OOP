@@ -1,0 +1,8 @@
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\bin\Debug\BaiTap_Buoi3.exe.config
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\bin\Debug\BaiTap_Buoi3.exe
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\bin\Debug\BaiTap_Buoi3.pdb
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\obj\Debug\BaiTap_Buoi3.csproj.AssemblyReference.cache
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\obj\Debug\BaiTap_Buoi3.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\obj\Debug\BaiTap_Buoi3.exe
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\obj\Debug\BaiTap_Buoi3.pdb
+E:\C#\BaiTap_Buoi3\BaiTap_Buoi3\obj\Debug\BaiTap_Buoi3.exe.config

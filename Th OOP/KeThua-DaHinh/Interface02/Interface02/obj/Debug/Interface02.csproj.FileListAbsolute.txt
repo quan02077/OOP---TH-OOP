@@ -1,0 +1,8 @@
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\bin\Debug\Interface02.exe.config
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\bin\Debug\Interface02.exe
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\bin\Debug\Interface02.pdb
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\obj\Debug\Interface02.csproj.AssemblyReference.cache
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\obj\Debug\Interface02.csproj.CoreCompileInputs.cache
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\obj\Debug\Interface02.exe
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\obj\Debug\Interface02.pdb
+E:\Th C#\KeThua-DaHinh\Interface02\Interface02\obj\Debug\Interface02.exe.config

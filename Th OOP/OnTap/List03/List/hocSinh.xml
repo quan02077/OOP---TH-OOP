@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<truong>
+	<hocsinh>
+		<mahs>2001240388</mahs>
+		<tenhs>Nguyen Nhat Minh Quan</tenhs>
+		<monhoc>
+			<mamh>MH09723</mamh>
+			<tenmh>Lap trinh C</tenmh>
+			<diemtx>10.00</diemtx>
+			<diemgk>8.50</diemgk>
+			<diemck>9.00</diemck>
+		</monhoc>
+		<monhoc>
+			<mamh>MH23424</mamh>
+			<tenmh>Cau truc du lieu va giai thuat</tenmh>
+			<diemtx>10.00</diemtx>
+			<diemgk>7.50</diemgk>
+			<diemck>8.75</diemck>
+		</monhoc>
+		<monhoc>
+			<mamh>MH09421</mamh>
+			<tenmh>Lap trinh huong doi tuong</tenmh>
+			<diemtx>10.00</diemtx>
+			<diemgk>2.50</diemgk>
+			<diemck>0.00</diemck>
+		</monhoc>
+	</hocsinh>
+</truong>

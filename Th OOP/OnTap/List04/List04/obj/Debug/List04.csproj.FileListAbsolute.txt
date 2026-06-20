@@ -1,0 +1,8 @@
+E:\Th C#\OnTap\List04\List04\bin\Debug\List04.exe.config
+E:\Th C#\OnTap\List04\List04\bin\Debug\List04.exe
+E:\Th C#\OnTap\List04\List04\bin\Debug\List04.pdb
+E:\Th C#\OnTap\List04\List04\obj\Debug\List04.csproj.AssemblyReference.cache
+E:\Th C#\OnTap\List04\List04\obj\Debug\List04.csproj.CoreCompileInputs.cache
+E:\Th C#\OnTap\List04\List04\obj\Debug\List04.exe
+E:\Th C#\OnTap\List04\List04\obj\Debug\List04.pdb
+E:\Th C#\OnTap\List04\List04\obj\Debug\List04.exe.config

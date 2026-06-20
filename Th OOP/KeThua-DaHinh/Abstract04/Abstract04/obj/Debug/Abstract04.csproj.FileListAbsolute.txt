@@ -1,0 +1,8 @@
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\bin\Debug\Abstract04.exe.config
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\bin\Debug\Abstract04.exe
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\bin\Debug\Abstract04.pdb
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\obj\Debug\Abstract04.csproj.AssemblyReference.cache
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\obj\Debug\Abstract04.csproj.CoreCompileInputs.cache
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\obj\Debug\Abstract04.exe
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\obj\Debug\Abstract04.pdb
+E:\Th C#\KeThua-DaHinh\Abstract04\Abstract04\obj\Debug\Abstract04.exe.config

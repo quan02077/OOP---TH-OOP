@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<tencty> ABC </tencty>
+	<diachi> 123 Le Thuc Hoach</diachi>
+	<dt> 0909 364 748</dt>
+	<dsnv>
+		<nv loai = "1">
+			<ma>NV01</ma>
+			<ten>Hoang</ten>
+			<nvl>2010</nvl>
+			<hsl>3.67</hsl>
+			<snn>5</snn>
+		</nv>
+		<nv loai = "2">
+			<ma>NV02</ma>
+			<ten>Trang</ten>
+			<nvl>2020</nvl>
+			<hsl>3.0</hsl>
+			<snn>7</snn>
+			<cv>Truong phong</cv>
+			<phongban>Tai chinh</phongban>
+			<hspccv>2</hspccv>
+		</nv>
+		<nv loai = "1">
+			<ma>NV03</ma>
+			<ten>Trang</ten>
+			<nvl>2018</nvl>
+			<hsl>3.0</hsl>
+			<snn>0</snn>
+		</nv>
+		<nv loai = "1">
+			<ma>NV04</ma>
+			<ten>Lan</ten>
+			<nvl>2022</nvl>
+			<hsl>2.67</hsl>
+			<snn>3</snn>
+		</nv>
+	</dsnv>
+</congty>

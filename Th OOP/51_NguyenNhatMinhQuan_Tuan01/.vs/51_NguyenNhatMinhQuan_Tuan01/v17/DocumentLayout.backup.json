@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C85D6B-C6DF-4833-AFD2-A35946A37A8B}|51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01.csproj|e:\\th c#\\51_nguyennhatminhquan_tuan01\\51_nguyennhatminhquan_tuan01\\sanphamdientu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C85D6B-C6DF-4833-AFD2-A35946A37A8B}|51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01.csproj|solutionrelative:51_nguyennhatminhquan_tuan01\\sanphamdientu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C85D6B-C6DF-4833-AFD2-A35946A37A8B}|51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_nguyennhatminhquan_tuan01\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C85D6B-C6DF-4833-AFD2-A35946A37A8B}|51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01.csproj|solutionrelative:51_nguyennhatminhquan_tuan01\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C85D6B-C6DF-4833-AFD2-A35946A37A8B}|51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_nguyennhatminhquan_tuan01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C85D6B-C6DF-4833-AFD2-A35946A37A8B}|51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01.csproj|solutionrelative:51_nguyennhatminhquan_tuan01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamDienTu.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01\\SanPhamDienTu.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_Tuan01\\SanPhamDienTu.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01\\SanPhamDienTu.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_Tuan01\\SanPhamDienTu.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwFUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:51:33.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01\\NhanVien.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_Tuan01\\NhanVien.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01\\NhanVien.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_Tuan01\\NhanVien.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA5wF4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:05:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01\\Program.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_Tuan01\\Program.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_Tuan01\\51_NguyenNhatMinhQuan_Tuan01\\Program.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_Tuan01\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T01:05:16.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

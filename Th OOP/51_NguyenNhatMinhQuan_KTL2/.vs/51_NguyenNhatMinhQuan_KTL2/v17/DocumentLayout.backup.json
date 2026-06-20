@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|e:\\th c#\\51_nguyennhatminhquan_ktl2\\51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_congtyxaydung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_congtyxaydung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_nhacap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_nhacap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_nhalau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_nhalau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_bietthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_bietthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_congty.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\nguyennhatminhquan_congty.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_nguyennhatminhquan_ktl2\\inguyennhatminhquan_trian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\inguyennhatminhquan_trian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_nguyennhatminhquan_ktl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B3CEF-DE5E-4B60-827C-B815503577F9}|51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2.csproj|solutionrelative:51_nguyennhatminhquan_ktl2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\Program.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\Program.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\Program.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:00:55.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguyenNhatMinhQuan_CongTyXayDung.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTyXayDung.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTyXayDung.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTyXayDung.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTyXayDung.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T02:29:06.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NguyenNhatMinhQuan_NhaCap4.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaCap4.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaCap4.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaCap4.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaCap4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:46:54.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NguyenNhatMinhQuan_NhaLau.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaLau.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaLau.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaLau.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_NhaLau.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:59:31.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NguyenNhatMinhQuan_CongTy.xml",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTy.xml",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTy.xml",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTy.xml",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_CongTy.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-21T02:36:43.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INguyenNhatMinhQuan_TriAn.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\INguyenNhatMinhQuan_TriAn.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\INguyenNhatMinhQuan_TriAn.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\INguyenNhatMinhQuan_TriAn.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\INguyenNhatMinhQuan_TriAn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T02:18:09.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NguyenNhatMinhQuan_BietThu.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_BietThu.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_BietThu.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_BietThu.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_BietThu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T02:11:36.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NguyenNhatMinhQuan_HopDong.cs",
+              "DocumentMoniker": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_HopDong.cs",
+              "RelativeDocumentMoniker": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_HopDong.cs",
+              "ToolTip": "E:\\Th C#\\51_NguyenNhatMinhQuan_KTL2\\51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_HopDong.cs",
+              "RelativeToolTip": "51_NguyenNhatMinhQuan_KTL2\\NguyenNhatMinhQuan_HopDong.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAxwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:28:36.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\bin\Debug\KeThua_DaHinh.exe.config
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\bin\Debug\KeThua_DaHinh.exe
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\bin\Debug\KeThua_DaHinh.pdb
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\obj\Debug\KeThua_DaHinh.csproj.AssemblyReference.cache
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\obj\Debug\KeThua_DaHinh.csproj.CoreCompileInputs.cache
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\obj\Debug\KeThua_DaHinh.exe
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\obj\Debug\KeThua_DaHinh.pdb
+E:\C#\KeThua-DaHinh\KeThua_DaHinh\KeThua_DaHinh\obj\Debug\KeThua_DaHinh.exe.config

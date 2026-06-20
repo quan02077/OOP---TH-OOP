@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<phong>
+	<thisinh>
+		<mats>001</mats>
+		<hoten>Minh Quan</hoten>
+		<gioitinh>Nam</gioitinh>
+		<diemlt>7.50</diemlt>
+		<diemth>8.75</diemth>
+	</thisinh>
+	<thisinh>
+		<mats>002</mats>
+		<hoten>Van Quan</hoten>
+		<gioitinh>Nam</gioitinh>
+		<diemlt>8.50</diemlt>
+		<diemth>8.75</diemth>
+	</thisinh>
+	<thisinh>
+		<mats>003</mats>
+		<hoten>Hao Nhien</hoten>
+		<gioitinh>Nam</gioitinh>
+		<diemlt>2.50</diemlt>
+		<diemth>1.75</diemth>
+	</thisinh>
+	<thisinh>
+		<mats>004</mats>
+		<hoten>Dai Phong</hoten>
+		<gioitinh>Nam</gioitinh>
+		<diemlt>5.55</diemlt>
+		<diemth>6.75</diemth>
+	</thisinh>
+</phong>
+

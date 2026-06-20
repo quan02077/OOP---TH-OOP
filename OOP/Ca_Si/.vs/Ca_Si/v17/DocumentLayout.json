@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Ca_Si\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|E:\\C#\\Ca_Si\\ca_si\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|solutionrelative:ca_si\\hopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|e:\\c#\\ca_si\\ca_si\\raplon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|solutionrelative:ca_si\\raplon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|E:\\C#\\Ca_Si\\ca_si\\rapnho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|solutionrelative:ca_si\\rapnho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|E:\\C#\\Ca_Si\\ca_si\\tainha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|solutionrelative:ca_si\\tainha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|E:\\C#\\Ca_Si\\ca_si\\ihotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|solutionrelative:ca_si\\ihotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|E:\\C#\\Ca_Si\\ca_si\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD38CB49-67D0-47D0-9C6E-F7D63A2534F2}|Ca_Si\\Ca_Si.csproj|solutionrelative:ca_si\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHoTro.cs",
+              "DocumentMoniker": "E:\\C#\\Ca_Si\\Ca_Si\\IHoTro.cs",
+              "RelativeDocumentMoniker": "Ca_Si\\IHoTro.cs",
+              "ToolTip": "E:\\C#\\Ca_Si\\Ca_Si\\IHoTro.cs",
+              "RelativeToolTip": "Ca_Si\\IHoTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:52:46.929Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RapLon.cs",
+              "DocumentMoniker": "E:\\C#\\Ca_Si\\Ca_Si\\RapLon.cs",
+              "RelativeDocumentMoniker": "Ca_Si\\RapLon.cs",
+              "ToolTip": "E:\\C#\\Ca_Si\\Ca_Si\\RapLon.cs",
+              "RelativeToolTip": "Ca_Si\\RapLon.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA/wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:02:31.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RapNho.cs",
+              "DocumentMoniker": "E:\\C#\\Ca_Si\\Ca_Si\\RapNho.cs",
+              "RelativeDocumentMoniker": "Ca_Si\\RapNho.cs",
+              "ToolTip": "E:\\C#\\Ca_Si\\Ca_Si\\RapNho.cs",
+              "RelativeToolTip": "Ca_Si\\RapNho.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:54:17.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiNha.cs",
+              "DocumentMoniker": "E:\\C#\\Ca_Si\\Ca_Si\\TaiNha.cs",
+              "RelativeDocumentMoniker": "Ca_Si\\TaiNha.cs",
+              "ToolTip": "E:\\C#\\Ca_Si\\Ca_Si\\TaiNha.cs",
+              "RelativeToolTip": "Ca_Si\\TaiNha.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:46:42.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HopDong.cs",
+              "DocumentMoniker": "E:\\C#\\Ca_Si\\Ca_Si\\HopDong.cs",
+              "RelativeDocumentMoniker": "Ca_Si\\HopDong.cs",
+              "ToolTip": "E:\\C#\\Ca_Si\\Ca_Si\\HopDong.cs",
+              "RelativeToolTip": "Ca_Si\\HopDong.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:21:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Ca_Si\\Ca_Si\\Program.cs",
+              "RelativeDocumentMoniker": "Ca_Si\\Program.cs",
+              "ToolTip": "E:\\C#\\Ca_Si\\Ca_Si\\Program.cs",
+              "RelativeToolTip": "Ca_Si\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:20:28.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

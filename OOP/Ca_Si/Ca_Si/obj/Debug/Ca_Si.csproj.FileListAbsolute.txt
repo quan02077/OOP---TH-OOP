@@ -1,0 +1,8 @@
+E:\C#\Ca_Si\Ca_Si\obj\Debug\Ca_Si.csproj.AssemblyReference.cache
+E:\C#\Ca_Si\Ca_Si\obj\Debug\Ca_Si.csproj.CoreCompileInputs.cache
+E:\C#\Ca_Si\Ca_Si\bin\Debug\Ca_Si.exe.config
+E:\C#\Ca_Si\Ca_Si\bin\Debug\Ca_Si.exe
+E:\C#\Ca_Si\Ca_Si\bin\Debug\Ca_Si.pdb
+E:\C#\Ca_Si\Ca_Si\obj\Debug\Ca_Si.exe
+E:\C#\Ca_Si\Ca_Si\obj\Debug\Ca_Si.pdb
+E:\C#\Ca_Si\Ca_Si\obj\Debug\Ca_Si.exe.config

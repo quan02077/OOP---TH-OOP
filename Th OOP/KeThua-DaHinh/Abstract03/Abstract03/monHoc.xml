@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<monhocs>
+	<mh loai ="Ly thuyet">
+		<ma>0001</ma>
+		<ten>Lap trinh C</ten>
+		<sotc>3</sotc>
+		<khoa>Cong nghe thong tin</khoa>
+		<diemtl>8.00</diemtl>
+		<diemgk>8.75</diemgk>
+		<diemck>9.50</diemck>
+	</mh>
+	<mh loai ="Thuc hanh">
+		<ma>0002</ma>
+		<ten>Kinh te chinh tri</ten>
+		<sotc>3</sotc>
+		<khoa>Ly luan chinh tri</khoa>
+		<diemkt1>7.50</diemkt1>
+		<diemkt2>8.50</diemkt2>
+		<diemkt3>8.50</diemkt3>
+		<diemkt4>9.50</diemkt4>
+	</mh>
+	<mh loai ="Do an">
+		<ma>0003</ma>
+		<ten>Huong doi tuong</ten>
+		<sotc>2</sotc>
+		<khoa>Cong nghe thong tin</khoa>
+		<diemgvhd>8.75</diemgvhd>
+		<diemgvpb>9.50</diemgvpb>
+	</mh>
+</monhocs>

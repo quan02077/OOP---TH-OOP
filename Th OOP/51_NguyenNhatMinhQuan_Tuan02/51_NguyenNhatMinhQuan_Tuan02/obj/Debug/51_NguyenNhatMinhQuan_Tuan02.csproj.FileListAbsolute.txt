@@ -1,0 +1,8 @@
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\bin\Debug\51_NguyenNhatMinhQuan_Tuan02.exe.config
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\bin\Debug\51_NguyenNhatMinhQuan_Tuan02.exe
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\bin\Debug\51_NguyenNhatMinhQuan_Tuan02.pdb
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\obj\Debug\51_NguyenNhatMinhQuan_Tuan02.csproj.AssemblyReference.cache
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\obj\Debug\51_NguyenNhatMinhQuan_Tuan02.csproj.CoreCompileInputs.cache
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\obj\Debug\51_NguyenNhatMinhQuan_Tuan02.exe
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\obj\Debug\51_NguyenNhatMinhQuan_Tuan02.pdb
+E:\Th C#\51_NguyenNhatMinhQuan_Tuan02\51_NguyenNhatMinhQuan_Tuan02\obj\Debug\51_NguyenNhatMinhQuan_Tuan02.exe.config

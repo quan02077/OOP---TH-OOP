@@ -1,0 +1,16 @@
+E:\Th C#\OnTap\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+E:\Th C#\OnTap\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\Th C#\OnTap\List\List\bin\Debug\List.exe.config
+E:\Th C#\OnTap\List\List\bin\Debug\List.exe
+E:\Th C#\OnTap\List\List\bin\Debug\List.pdb
+E:\Th C#\OnTap\List\List\obj\Debug\List.exe
+E:\Th C#\OnTap\List\List\obj\Debug\List.pdb
+E:\Th C#\OnTap\List\List\obj\Debug\List.exe.config
+E:\Th C#\OnTap\List03\List\bin\Debug\List.exe.config
+E:\Th C#\OnTap\List03\List\bin\Debug\List.exe
+E:\Th C#\OnTap\List03\List\bin\Debug\List.pdb
+E:\Th C#\OnTap\List03\List\obj\Debug\List.csproj.AssemblyReference.cache
+E:\Th C#\OnTap\List03\List\obj\Debug\List.exe.config
+E:\Th C#\OnTap\List03\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\Th C#\OnTap\List03\List\obj\Debug\List.exe
+E:\Th C#\OnTap\List03\List\obj\Debug\List.pdb

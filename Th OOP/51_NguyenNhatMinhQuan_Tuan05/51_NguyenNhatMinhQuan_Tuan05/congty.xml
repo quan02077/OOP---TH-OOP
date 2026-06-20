@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<nhanvien>
+		<loai>1</loai>
+		<manv>001</manv>
+		<hoten>Minh Quan</hoten>
+		<namsinh>2006</namsinh>
+		<gioitinh>Nam</gioitinh>
+		<hesoluong>3.33</hesoluong>
+		<namvaolam>2018</namvaolam>
+		<sonn>4</sonn>
+	</nhanvien>
+	<nhanvien>
+		<loai>2</loai>
+		<manv>002</manv>
+		<hoten>Thanh Do</hoten>
+		<namsinh>1983</namsinh>
+		<gioitinh>Nam</gioitinh>
+		<hesoluong>3.36</hesoluong>
+		<namvaolam>2017</namvaolam>
+		<dsbh>150</dsbh>
+		<dstt>50</dstt>
+	</nhanvien>
+	<nhanvien>
+		<loai>3</loai>
+		<manv>003</manv>
+		<hoten>Hao Nhien</hoten>
+		<namsinh>2006</namsinh>
+		<gioitinh>Nu</gioitinh>
+		<hesoluong>2.18</hesoluong>
+		<namvaolam>2014</namvaolam>
+		<chucvu>Lao cong</chucvu>
+		<hesocv>2.36</hesocv>
+	</nhanvien>
+</congty>

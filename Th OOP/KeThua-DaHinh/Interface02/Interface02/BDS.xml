@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<bds>
+		<loai>1</loai>
+		<ma>001</ma>
+		<dai>80</dai>
+		<rong>100</rong>
+	</bds>
+	<bds>
+		<loai>2</loai>
+		<ma>002</ma>
+		<dai>60</dai>
+		<rong>80</rong>
+		<solau>3</solau>
+	</bds>
+	<bds>
+		<loai>3</loai>
+		<ma>003</ma>
+		<dai>60</dai>
+		<rong>70</rong>
+		<sosao>4</sosao>
+	</bds>
+	<bds>
+		<loai>4</loai>
+		<ma>004</ma>
+		<dai>40</dai>
+		<rong>60</rong>
+	</bds>
+</congty>

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Th C#\\OnTap\\List03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|E:\\Th C#\\OnTap\\List03\\list\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|solutionrelative:list\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|e:\\th c#\\ontap\\list03\\list\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|solutionrelative:list\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|E:\\Th C#\\OnTap\\List03\\list\\hocsinh.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|solutionrelative:list\\hocsinh.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|E:\\Th C#\\OnTap\\List03\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D4E3FB-A0A3-44EA-A391-048DEC1BB9FB}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hocSinh.xml",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List03\\List\\hocSinh.xml",
+              "RelativeDocumentMoniker": "List\\hocSinh.xml",
+              "ToolTip": "E:\\Th C#\\OnTap\\List03\\List\\hocSinh.xml",
+              "RelativeToolTip": "List\\hocSinh.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-24T11:00:28.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List03\\List\\HocSinh.cs",
+              "RelativeDocumentMoniker": "List\\HocSinh.cs",
+              "ToolTip": "E:\\Th C#\\OnTap\\List03\\List\\HocSinh.cs",
+              "RelativeToolTip": "List\\HocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:05:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonHoc.cs",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List03\\List\\MonHoc.cs",
+              "RelativeDocumentMoniker": "List\\MonHoc.cs",
+              "ToolTip": "E:\\Th C#\\OnTap\\List03\\List\\MonHoc.cs",
+              "RelativeToolTip": "List\\MonHoc.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvz8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:00:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List03\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "E:\\Th C#\\OnTap\\List03\\List\\Program.cs",
+              "RelativeToolTip": "List\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:59:51.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

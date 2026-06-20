@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xaydung>
+	<tenct>Tong cong ty xay dung mien nam</tenct>
+	<dienthoai>028123456</dienthoai>
+	<dshd>
+		<hd loai = "nha4">
+			<mahd>HD001</mahd>
+			<tenkh>Tran Nhu Hieu</tenkh>
+			<thoigianlam>3</thoigianlam>
+			<dai>25</dai>
+			<rong>12</rong>
+			<sotientamung>115000</sotientamung>
+			<dientichcongtrinhphu>10</dientichcongtrinhphu>
+		</hd>
+		<hd loai = "nha4">
+			<mahd>HD009</mahd>
+			<tenkh>Nguyen Peter</tenkh>
+			<thoigianlam>6</thoigianlam>
+			<dai>30</dai>
+			<rong>18</rong>
+			<sotientamung>10000000</sotientamung>
+			<dientichcongtrinhphu>10</dientichcongtrinhphu>
+		</hd>
+		<hd loai = "nhalau">
+			<mahd>HD002</mahd>
+			<tenkh>Nguyen Nhat Minh Quan</tenkh>
+			<thoigianlam>6</thoigianlam>
+			<dai>35</dai>
+			<rong>26</rong>
+			<sotientamung>1000000</sotientamung>
+			<sosan>3</sosan>
+			<trangtri>true</trangtri>
+		</hd>
+		<hd loai = "nhalau">
+			<mahd>HD008</mahd>
+			<tenkh>Luong Van Nhien</tenkh>
+			<thoigianlam>4</thoigianlam>
+			<dai>36</dai>
+			<rong>20</rong>
+			<sotientamung>500000</sotientamung>
+			<sosan>3</sosan>
+			<trangtri>true</trangtri>
+		</hd>
+		<hd loai = "bietthu">
+			<mahd>HD003</mahd>
+			<tenkh>Nguy Hao Quan</tenkh>
+			<thoigianlam>8</thoigianlam>
+			<dai>30</dai>
+			<rong>15</rong>
+			<sotientamung>900000</sotientamung>
+			<dientichngoaivi>15</dientichngoaivi>
+			<soluonghoboi>3</soluonghoboi>
+		</hd>
+	</dshd>
+</xaydung>

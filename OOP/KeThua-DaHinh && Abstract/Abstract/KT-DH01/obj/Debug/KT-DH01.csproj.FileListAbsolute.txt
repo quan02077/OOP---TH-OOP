@@ -1,0 +1,16 @@
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\bin\Debug\KT-DH01.exe.config
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\bin\Debug\KT-DH01.exe
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\bin\Debug\KT-DH01.pdb
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\obj\Debug\KT-DH01.csproj.AssemblyReference.cache
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\obj\Debug\KT-DH01.csproj.CoreCompileInputs.cache
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\obj\Debug\KT-DH01.exe
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\obj\Debug\KT-DH01.pdb
+E:\C#\KeThua-DaHinh\KT-DH01\KT-DH01\obj\Debug\KT-DH01.exe.config
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\bin\Debug\KT-DH01.exe.config
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\bin\Debug\KT-DH01.exe
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\bin\Debug\KT-DH01.pdb
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\obj\Debug\KT-DH01.csproj.AssemblyReference.cache
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\obj\Debug\KT-DH01.exe.config
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\obj\Debug\KT-DH01.csproj.CoreCompileInputs.cache
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\obj\Debug\KT-DH01.exe
+E:\C#\KeThua-DaHinh && Abstract\Abstract\KT-DH01\obj\Debug\KT-DH01.pdb

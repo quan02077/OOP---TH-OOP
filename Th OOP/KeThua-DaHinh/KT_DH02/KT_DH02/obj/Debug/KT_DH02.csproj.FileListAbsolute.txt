@@ -1,0 +1,8 @@
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\bin\Debug\KT_DH02.exe.config
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\bin\Debug\KT_DH02.exe
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\bin\Debug\KT_DH02.pdb
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\obj\Debug\KT_DH02.csproj.AssemblyReference.cache
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\obj\Debug\KT_DH02.csproj.CoreCompileInputs.cache
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\obj\Debug\KT_DH02.exe
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\obj\Debug\KT_DH02.pdb
+E:\Th C#\KeThua-DaHinh\KT_DH02\KT_DH02\obj\Debug\KT_DH02.exe.config

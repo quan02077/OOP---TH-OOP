@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<khachhang>
+	<hoadon>
+		<mahd>001</mahd>
+		<tenkh>Thanh Hoa</tenkh>
+		<chitietbh>
+			<masp>SP0001</masp>
+			<tensp>May tinh Asus</tensp>
+			<giaban>25.000</giaban>
+			<soluong>2</soluong>
+		</chitietbh>
+		<chitietbh>
+			<masp>SP0002</masp>
+			<tensp>May tinh Dell</tensp>
+			<giaban>15.000</giaban>
+			<soluong>1</soluong>
+		</chitietbh>
+		<chitietbh>
+			<masp>SP0003</masp>
+			<tensp>May tinh Acer</tensp>
+			<giaban>20.000</giaban>
+			<soluong>4</soluong>
+		</chitietbh>
+	</hoadon>
+</khachhang>

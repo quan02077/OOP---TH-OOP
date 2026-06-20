@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interface.GachBong1">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAABAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAgAAAA=</HashCode>
+      <FileName>GachBong1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interface.GachBong2">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAABBCAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GachBong2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interface.GachBongNK">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEQBAAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GachBongNK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface.HoaDon">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQAAEgAAAAAACCAoAAAAAAAAAAAACIAkAACABAkAQCA=</HashCode>
+      <FileName>HoaDon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Interface.IHoTro">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHoTro.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

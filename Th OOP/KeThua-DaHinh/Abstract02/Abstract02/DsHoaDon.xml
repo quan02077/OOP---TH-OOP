@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<congty>
+	<tencty>Ba Mia De Tem</tencty>
+	<sdt>0908509406</sdt>
+	<diachi>120 Yen Lang</diachi>
+	<dshoadon>
+		<kh loai = "Ca nhan">
+			<makh>0001</makh>
+			<tenkh>Peter Griffin</tenkh>
+			<soluong>6</soluong>
+			<giaban>150000</giaban>
+			<khoangcach>11</khoangcach>
+		</kh>
+		<kh loai = "Dai ly">
+			<makh>0002</makh>
+			<tenkh>Lois</tenkh>
+			<soluong>4</soluong>
+			<giaban>300000</giaban>
+			<thoigianht>4</thoigianht>
+		</kh>
+		<kh loai = "Dai ly">
+			<makh>0008</makh>
+			<tenkh>Cleverland</tenkh>
+			<soluong>8</soluong>
+			<giaban>300000</giaban>
+			<thoigianht>8</thoigianht>
+		</kh>
+		<kh loai = "Cong ty">
+			<makh>0002</makh>
+			<tenkh>Glenn Quagmire</tenkh>
+			<soluong>2</soluong>
+			<giaban>250000</giaban>
+			<soluongnv>2000</soluongnv>
+		</kh>
+		<kh loai = "Cong ty">
+			<makh>0009</makh>
+			<tenkh>Joe</tenkh>
+			<soluong>6</soluong>
+			<giaban>250000</giaban>
+			<soluongnv>6000</soluongnv>
+		</kh>
+	</dshoadon>
+</congty>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cuahang>
+	<ten>Quan Nhien Foundation</ten>
+	<diachi>140 Le Trong Tan</diachi>
+	<dsdonhang>
+		<donhang>
+			<madon>DH123000</madon>
+			<tensp>Thot</tensp>
+			<loaisp>Gia dung</loaisp>
+			<soluong>4</soluong>
+			<dongia>2000000</dongia>
+			<ngaydat>20/09/2025</ngaydat>
+			<phivc>5000</phivc>
+		</donhang>
+		<donhang>
+			<madon>DH034547</madon>
+			<tensp>May lanh</tensp>
+			<loaisp>Dien tu</loaisp>
+			<soluong>5</soluong>
+			<dongia>4000000</dongia>
+			<ngaydat>27/08/2025</ngaydat>
+			<phivc>360000</phivc>
+		</donhang>
+		<donhang>
+			<madon>DH995660</madon>
+			<tensp>May tinh</tensp>
+			<loaisp>Dien tu</loaisp>
+			<soluong>36</soluong>
+			<dongia>7000000</dongia>
+			<ngaydat>26/07/2025</ngaydat>
+			<phivc>20000</phivc>
+		</donhang>
+		<donhang>
+			<madon>DH345780</madon>
+			<tensp>Moc treo do</tensp>
+			<loaisp>Gia dung</loaisp>
+			<soluong>20</soluong>
+			<dongia>20000</dongia>
+			<ngaydat>19/09/2025</ngaydat>
+			<phivc>10000</phivc>
+		</donhang>
+		<donhang>
+			<madon>DH363609</madon>
+			<tensp>Dior</tensp>
+			<loaisp>Thoi trang</loaisp>
+			<soluong>15</soluong>
+			<dongia>20000000</dongia>
+			<ngaydat>30/09/2025</ngaydat>
+			<phivc>100000</phivc>
+		</donhang>
+	</dsdonhang>
+</cuahang>

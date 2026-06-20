@@ -1,0 +1,8 @@
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\obj\Debug\Abstract03.csproj.AssemblyReference.cache
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\obj\Debug\Abstract03.csproj.CoreCompileInputs.cache
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\bin\Debug\Abstract03.exe.config
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\bin\Debug\Abstract03.exe
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\bin\Debug\Abstract03.pdb
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\obj\Debug\Abstract03.exe
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\obj\Debug\Abstract03.pdb
+E:\Th C#\KeThua-DaHinh\Abstract03\Abstract03\obj\Debug\Abstract03.exe.config

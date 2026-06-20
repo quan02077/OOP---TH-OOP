@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|e:\\th c#\\kethua-dahinh\\abstract02\\abstract02\\dailycap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\dailycap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|E:\\Th C#\\KeThua-DaHinh\\Abstract02\\abstract02\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|E:\\Th C#\\KeThua-DaHinh\\Abstract02\\abstract02\\dshoadon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\dshoadon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|E:\\Th C#\\KeThua-DaHinh\\Abstract02\\abstract02\\quanlythongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\quanlythongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|E:\\Th C#\\KeThua-DaHinh\\Abstract02\\abstract02\\khachhangcanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\khachhangcanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|E:\\Th C#\\KeThua-DaHinh\\Abstract02\\abstract02\\ihotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\ihotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|E:\\Th C#\\KeThua-DaHinh\\Abstract02\\abstract02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|E:\\Th C#\\KeThua-DaHinh\\Abstract02\\abstract02\\khachhanglacty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFB2A84-5981-41B0-934F-DF4E26299782}|Abstract02\\Abstract02.csproj|solutionrelative:abstract02\\khachhanglacty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHoTro.cs",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\IHoTro.cs",
+              "RelativeDocumentMoniker": "Abstract02\\IHoTro.cs",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\IHoTro.cs",
+              "RelativeToolTip": "Abstract02\\IHoTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:05:46.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHangCaNhan.cs",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\KhachHangCaNhan.cs",
+              "RelativeDocumentMoniker": "Abstract02\\KhachHangCaNhan.cs",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\KhachHangCaNhan.cs",
+              "RelativeToolTip": "Abstract02\\KhachHangCaNhan.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:15:28.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyThongTIn.cs",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\QuanLyThongTIn.cs",
+              "RelativeDocumentMoniker": "Abstract02\\QuanLyThongTIn.cs",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\QuanLyThongTIn.cs",
+              "RelativeToolTip": "Abstract02\\QuanLyThongTIn.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T04:39:05.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract02\\Program.cs",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\Program.cs",
+              "RelativeToolTip": "Abstract02\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:57:19.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DsHoaDon.xml",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\DsHoaDon.xml",
+              "RelativeDocumentMoniker": "Abstract02\\DsHoaDon.xml",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\DsHoaDon.xml",
+              "RelativeToolTip": "Abstract02\\DsHoaDon.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-10-10T14:20:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KhachHangLaCTY.cs",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\KhachHangLaCTY.cs",
+              "RelativeDocumentMoniker": "Abstract02\\KhachHangLaCTY.cs",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\KhachHangLaCTY.cs",
+              "RelativeToolTip": "Abstract02\\KhachHangLaCTY.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:08:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DaiLyCap1.cs",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\DaiLyCap1.cs",
+              "RelativeDocumentMoniker": "Abstract02\\DaiLyCap1.cs",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\DaiLyCap1.cs",
+              "RelativeToolTip": "Abstract02\\DaiLyCap1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:49:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Abstract02\\HoaDon.cs",
+              "ToolTip": "E:\\Th C#\\KeThua-DaHinh\\Abstract02\\Abstract02\\HoaDon.cs",
+              "RelativeToolTip": "Abstract02\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:57:34.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

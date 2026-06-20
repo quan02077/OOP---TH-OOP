@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\interface\\ihotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|solutionrelative:interface\\ihotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\interface\\gachbongnk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|solutionrelative:interface\\gachbongnk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\interface\\gachbong2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|solutionrelative:interface\\gachbong2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|d:\\baitap\\oop\\kethua-dahinh \u0026\u0026 abstract\\interface\\interface\\gachbong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|solutionrelative:interface\\gachbong1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\interface\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|solutionrelative:interface\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A96101-E1A4-4794-AFE3-1EF64F0917ED}|Interface\\Interface.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IHoTro.cs",
+              "DocumentMoniker": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\IHoTro.cs",
+              "RelativeDocumentMoniker": "Interface\\IHoTro.cs",
+              "ToolTip": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\IHoTro.cs",
+              "RelativeToolTip": "Interface\\IHoTro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:03:46.202Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GachBongNK.cs",
+              "DocumentMoniker": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\GachBongNK.cs",
+              "RelativeDocumentMoniker": "Interface\\GachBongNK.cs",
+              "ToolTip": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\GachBongNK.cs",
+              "RelativeToolTip": "Interface\\GachBongNK.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:25:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GachBong2.cs",
+              "DocumentMoniker": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\GachBong2.cs",
+              "RelativeDocumentMoniker": "Interface\\GachBong2.cs",
+              "ToolTip": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\GachBong2.cs",
+              "RelativeToolTip": "Interface\\GachBong2.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:49:50.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GachBong1.cs",
+              "DocumentMoniker": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\GachBong1.cs",
+              "RelativeDocumentMoniker": "Interface\\GachBong1.cs",
+              "ToolTip": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\GachBong1.cs",
+              "RelativeToolTip": "Interface\\GachBong1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:13:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Interface\\HoaDon.cs",
+              "ToolTip": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\HoaDon.cs",
+              "RelativeToolTip": "Interface\\HoaDon.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwE8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:57:14.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Interface\\Program.cs",
+              "ToolTip": "D:\\BaiTap\\OOP\\KeThua-DaHinh \u0026\u0026 Abstract\\Interface\\Interface\\Program.cs",
+              "RelativeToolTip": "Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:55:59.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

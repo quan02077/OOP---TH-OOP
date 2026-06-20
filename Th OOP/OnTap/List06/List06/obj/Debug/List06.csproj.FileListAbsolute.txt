@@ -1,0 +1,8 @@
+E:\Th C#\OnTap\List06\List06\bin\Debug\List06.exe.config
+E:\Th C#\OnTap\List06\List06\bin\Debug\List06.exe
+E:\Th C#\OnTap\List06\List06\bin\Debug\List06.pdb
+E:\Th C#\OnTap\List06\List06\obj\Debug\List06.csproj.AssemblyReference.cache
+E:\Th C#\OnTap\List06\List06\obj\Debug\List06.csproj.CoreCompileInputs.cache
+E:\Th C#\OnTap\List06\List06\obj\Debug\List06.exe
+E:\Th C#\OnTap\List06\List06\obj\Debug\List06.pdb
+E:\Th C#\OnTap\List06\List06\obj\Debug\List06.exe.config

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Th C#\\OnTap\\List06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|E:\\Th C#\\OnTap\\List06\\list06\\chitietbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|solutionrelative:list06\\chitietbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|e:\\th c#\\ontap\\list06\\list06\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|solutionrelative:list06\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|E:\\Th C#\\OnTap\\List06\\list06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|solutionrelative:list06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|E:\\Th C#\\OnTap\\List06\\list06\\hoadon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{878A88A3-1D7D-4040-9AC3-90A7C4207B04}|List06\\List06.csproj|solutionrelative:list06\\hoadon.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hoaDon.xml",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List06\\List06\\hoaDon.xml",
+              "RelativeDocumentMoniker": "List06\\hoaDon.xml",
+              "ToolTip": "E:\\Th C#\\OnTap\\List06\\List06\\hoaDon.xml",
+              "RelativeToolTip": "List06\\hoaDon.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-29T10:58:16.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List06\\List06\\HoaDon.cs",
+              "RelativeDocumentMoniker": "List06\\HoaDon.cs",
+              "ToolTip": "E:\\Th C#\\OnTap\\List06\\List06\\HoaDon.cs",
+              "RelativeToolTip": "List06\\HoaDon.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:46:25.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietBH.cs",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List06\\List06\\ChiTietBH.cs",
+              "RelativeDocumentMoniker": "List06\\ChiTietBH.cs",
+              "ToolTip": "E:\\Th C#\\OnTap\\List06\\List06\\ChiTietBH.cs",
+              "RelativeToolTip": "List06\\ChiTietBH.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwHsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:31:28.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Th C#\\OnTap\\List06\\List06\\Program.cs",
+              "RelativeDocumentMoniker": "List06\\Program.cs",
+              "ToolTip": "E:\\Th C#\\OnTap\\List06\\List06\\Program.cs",
+              "RelativeToolTip": "List06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:31:13.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
